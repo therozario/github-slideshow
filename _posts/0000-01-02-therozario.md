@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Let's call the cops, you will see who comes first.
 Use the left arrow to go back!
